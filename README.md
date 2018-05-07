@@ -1,4 +1,3 @@
--------------
 PT_BR
 -------------
 
@@ -81,7 +80,7 @@ Plugin [WorldWideInventory] for the software PocketMine-MP (pmmp)
 - **Other Release Releases [here](https://github.com/LewBr/LewBr-InventarioMundial/releases)**
 
 ## About
-- Created by LeWBr (Leonardo S. William)
+- Created by LewBr (Leonardo S. William)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
