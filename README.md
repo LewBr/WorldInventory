@@ -12,6 +12,9 @@ Plugin [InventarioMundial] do software para PocketMine-MP (pmmp)
 2) Reinicie seu servidor;
 3) Altere as configurações do plugin de sua preferência pelo arquivo: (config.yml).
 
+### Oque ele faz?
+- O plugin foi feito para obter a data de itens do jogador de um mundo atual e depois se o jogador transferir a um outro mundo ele receberá todos os itens guardados no mundo atual, "Inventário por Mundo".
+
 ### Últimas versões:
 - 1.0.0
 	- não adicionado
@@ -55,6 +58,9 @@ Plugin [WorldWideInventory] for the software PocketMine-MP (pmmp)
 1) Install the plugin .phar artifacts;
 2) Restart your server;
 3) Change the plugin settings you prefer by using the file: (config.yml).
+
+### What did they do?
+- The plugin was made to get the player's item data from a current world and then if the player moves to another world he will receive all items stored in the current world, "Inventory per World."
 
 ### Latest versions:
 - 1.0.0
