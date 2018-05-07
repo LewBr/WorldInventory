@@ -1,0 +1,27 @@
+---
+# PT_BR:
+# Arquivo de configuração principal para o plugin [InventarioMundial] do software para PocketMine-MP
+# Criado oficialmente por @LewBr, http://twitter.com/lew_br/
+# EN: 
+# Main configuration file for the [WorldWideInventory] plugin for PocketMine-MP software
+# Officially made by @LewBr, http://twitter.com/lew_br/
+
+
+configuracoes:
+  # pt_BR
+  # Qual provedor você prefere utilizar?
+  # No momento só temos estes provedores: (yaml)
+  # EN:
+  # Which provider do you prefer to use?
+  # At the moment we only have these providers: (yaml)
+  provedor: yaml
+  # Informações do banco de dados MySQL (funcionará apenas se tiver o provedor selecionado como "mysql")
+  # MySQL database information (will only work if you have the provider selected as "mysql")
+  database:
+    host: "localhost"
+    user: "root"
+    password: "root"
+    database: "test"
+    table: "inventariomundial"
+    port: 3306
+...
