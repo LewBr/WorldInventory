@@ -1,4 +1,5 @@
 <details><summary>pt_BR (Portuguese) (click to expand)</summary><p>
+	
 # LewBr-InventarioMundial
 Plugin [InventarioMundial] do software para PocketMine-MP (pmmp)
 
@@ -38,8 +39,11 @@ Plugin [InventarioMundial] do software para PocketMine-MP (pmmp)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
+
 </p></details>
+<br>
 <details><summary>en_US (English) (click to expand)</summary><p>
+	
 # LewBr-WorldWideInventory
 Plugin [WorldWideInventory] for the software PocketMine-MP (pmmp)
 
@@ -79,4 +83,5 @@ Plugin [WorldWideInventory] for the software PocketMine-MP (pmmp)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
+
 </p></details>
