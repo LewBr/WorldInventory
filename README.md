@@ -38,7 +38,7 @@ Plugin [InventarioMundial] do software para PocketMine-MP (pmmp)
 - **Outros lançamentos de versões [aqui](https://github.com/LewBr/LewBr-InventarioMundial/releases)**
 
 ## Sobre
-- Feito por LewBr (Leonardo Santos Jacyntho)
+- Feito por LewBr (Leonardo Santos)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
@@ -85,7 +85,7 @@ Plugin [WorldWideInventory] for the software PocketMine-MP (pmmp)
 - **Other Release Releases [here](https://github.com/LewBr/LewBr-InventarioMundial/releases)**
 
 ## About
-- Created by LewBr (Leonardo Santos Jacyntho)
+- Created by LewBr (Leonardo Santos)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
