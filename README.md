@@ -1,10 +1,10 @@
 <details><summary>pt_BR (Portuguese) (click to expand)</summary><p>
 	
-# LewBr-InventarioMundial
-Plugin [InventarioMundial] do software para PocketMine-MP (pmmp)
+# LewBr-WorldInventory
+Plugin [WorldInventory] para o software PocketMine-MP (pmmp)
 
 -------------
-[Obtenha os últimos artefatos do LewBr-InventarioMundial (arquivo PHAR) aqui](https://github.com/LewBr/LewBr-InventarioMundial/releases)
+[Obtenha os últimos artefatos do LewBr-WorldInventory (arquivo PHAR) aqui](https://github.com/LewBr/LewBr-WorldInventory/releases)
 -------------
 
 ### Como usar?
@@ -44,14 +44,13 @@ Plugin [InventarioMundial] do software para PocketMine-MP (pmmp)
 - Twitter - http://twitter.com/Lew_Br
 
 </p></details>
-<br>
 <details><summary>en_US (English) (click to expand)</summary><p>
 	
-# LewBr-WorldWideInventory
-Plugin [WorldWideInventory] for the software PocketMine-MP (pmmp)
+# LewBr-WorldInventory
+Plugin [WorldInventory] for the software PocketMine-MP (pmmp)
 
 -------------
-[Get the latest LewBr-WorldWideInventory artifacts (PHAR file) here](https://github.com/LewBr/LewBr-InventarioMundial/releases)
+[Get the latest LewBr-WorldInventory artifacts (PHAR file) here](https://github.com/LewBr/LewBr-WorldInventory/releases)
 -------------
 
 ### How to setup?
